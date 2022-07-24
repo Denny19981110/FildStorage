@@ -1269,19 +1269,6 @@
         ]
     },
     {
-        "city": "南海島",
-        "districts": [
-            {
-                "District": "東沙群島",
-                "ZipCode": "817"
-            },
-            {
-                "District": "南沙群島",
-                "ZipCode": "819"
-            }
-        ]
-    },
-    {
         "city": "澎湖縣",
         "districts": [
             {
